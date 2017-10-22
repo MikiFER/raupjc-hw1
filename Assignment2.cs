@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment2Tests
+namespace Assignment2
 {
     class GenericList<T> : IGenericList<T>
     {
