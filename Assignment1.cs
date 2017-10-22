@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assignment1Tests
+namespace Assignment1
 {
     class IntegerList : IIntegerList
     {
